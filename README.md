@@ -96,13 +96,13 @@ On Client Components, the reconciler could use the translation layer to dynamica
 
 ## Things to figure out
 
-- [] get the reconciler working for real
-- [] get `renderToLiquid` working
-- [] make some components
-- [] use the vite environment api to render both the RSC and RCC trees
-- [] wire shit up (useful ref https://github.com/odestry/adastra)
-- [] .d.ts file with types for all new jsx elements
-- [] autogenerate typescript types based on the grammar definitions they have here https://github.com/Shopify/theme-tools/tree/main/packages/vscode-extension.
+- [ ] get the reconciler working for real
+- [ ] get `renderToLiquid` working
+- [ ] make some components
+- [ ] use the vite environment api to render both the RSC and RCC trees
+- [ ] wire shit up (useful ref https://github.com/odestry/adastra)
+- [ ] .d.ts file with types for all new jsx elements
+- [ ] autogenerate typescript types based on the grammar definitions they have here https://github.com/Shopify/theme-tools/tree/main/packages/vscode-extension.
 
 ## Will I finish this?
 
